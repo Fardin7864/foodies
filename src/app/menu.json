@@ -1,0 +1,41 @@
+{
+    "menu": [
+      {
+        "_id": 1,
+        "name": "Spaghetti Bolognese",
+        "category": "Pasta",
+        "price": 12.99
+      },
+      {
+        "_id": 2,
+        "name": "Chicken Caesar Salad",
+        "category": "Salad",
+        "price": 8.99
+      },
+      {
+        "_id": 3,
+        "name": "Margherita Pizza",
+        "category": "Pizza",
+        "price": 10.99
+      },
+      {
+        "_id": 4,
+        "name": "Grilled Salmon",
+        "category": "Seafood",
+        "price": 16.99
+      },
+      {
+        "_id": 5,
+        "name": "Vegetarian Stir-Fry",
+        "category": "Vegetarian",
+        "price": 9.99
+      },
+      {
+        "_id": 6,
+        "name": "Chocolate Fudge Cake",
+        "category": "Dessert",
+        "price": 6.99
+      }
+    ]
+  }
+  
